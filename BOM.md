@@ -22,7 +22,7 @@
 | [Speaker (1 Watt 8 Ohm)](https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large) | Talking! | 1 | $0.52 | $0.52 | [Quartz Components](https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large) |
 | [PCB](https://robu.in/product/online-pcb-manufacturing-service/) | Connecting the components | 1 | $9.30 | $9.30 | [Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) |
 | **Parts subtotal** | — | — | — | **$28.26** | — |
-| **Tax & shipping** | — | — | — | **$2.75** | — |
-| **Total** | — | — | — | **$31.01** | — |
+| **Tax & shipping** | — | — | — | **$2.74** | — |
+| **Total** | — | — | — | **$31.00** | — |
 
-**$1.01 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
