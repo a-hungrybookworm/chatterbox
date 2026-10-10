@@ -21,7 +21,7 @@
 | [Blank DSA Keycaps (Set of 5)](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) | Keycaps for the buttons | 1 | $100.00 | $100.00 | [Meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) |
 | [Speaker (1 Watt 8 Ohm)](https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large) | Talking! | 1 | $50.00 | $50.00 | [Quartz Components](https://quartzcomponents.com/products/0-5w-speaker-8-ohm-large) |
 | **Parts subtotal** | — | — | — | **$1835.00** | — |
-| **Tax & shipping** | — | — | — | **$49.00** | — |
-| **Total** | — | — | — | **$1884.00** | — |
+| **Tax & shipping** | — | — | — | **$98.00** | — |
+| **Total** | — | — | — | **$1933.00** | — |
 
-**$1854.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1903.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
