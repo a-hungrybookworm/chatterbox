@@ -5,8 +5,6 @@ The Chatterbox is a tiny motion-controlled, talkative desktop pet, similar to a 
 # Features
 - Tilt-controlled radial menu
 - Tiny virtual pet on-screen
-- Reactions (of the pet) to outside stimuli
-- Pet talking on being disturbed
 - Motion, tilt and environment sensors
 - Compact PCB design
 
