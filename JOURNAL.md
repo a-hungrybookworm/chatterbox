@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, that talks to you every once in a while, and moralises like crazy. Basically a Starbie that talks.
+> A tiny motion-controlled digital pet, that talks to you every once in a while. Basically a Starbie that talks.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
