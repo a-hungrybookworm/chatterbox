@@ -22,7 +22,7 @@
 | [Speaker (1 Watt 8 Ohm oval mini)](https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html) | Talking! | 1 | $0.51 | $0.51 | [Probots](https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html) |
 | [PCB](https://robu.in/product/online-pcb-manufacturing-service/) | Connecting the components | 1 | $9.30 | $9.30 | [Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) |
 | **Parts subtotal** | — | — | — | **$25.87** | — |
-| **Tax & shipping** | — | — | — | **$2.75** | — |
-| **Total** | — | — | — | **$28.62** | — |
+| **Tax & shipping** | — | — | — | **$3.06** | — |
+| **Total** | — | — | — | **$28.93** | — |
 
-$1.38 left of the tier's funding.
+$1.07 left of the tier's funding.
