@@ -39,6 +39,23 @@ This was one of the first hardware projects I've done, and I learnt a lot, inclu
 - process wav audio
 - create tasks and queues on FreeRTOS (on the ESP32)
 
+# BOM
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [XIAO-ESP32-C3](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) | Microcontroller | 1 | $7.74 | $7.74 | [Robu.in](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) |
+| [MAX98357A Amplifier](https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/) | Amp for the speaker | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/) |
+| [DHT11](https://robocraze.com/products/dht11-humidity-temperature-sensor-module-1) | Environment sensor | 1 | $0.53 | $0.53 | [Robocraze.com](https://robocraze.com/products/dht11-humidity-temperature-sensor-module-1) |
+| [MPU6050](https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module) | Accelerometer & gyroscope | 1 | $1.56 | $1.56 | [Robocraze.com](https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module) |
+| [0.96 OLED](https://robocraze.com/products/0-96in-oled-display-module-4pin) | Display | 1 | $1.75 | $1.75 | [Robocraze.com](https://robocraze.com/products/0-96in-oled-display-module-4pin) |
+| [Kailh Switches (pack of 10)](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/) | Controls (buttons) | 1 | $1.45 | $1.45 | [Meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/) |
+| [Blank DSA Keycaps (Set of 5)](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) | Keycaps for the buttons | 1 | $1.03 | $1.03 | [Meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) |
+| [Speaker (1 Watt 8 Ohm oval mini)](https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html) | Talking! | 1 | $0.51 | $0.51 | [Probots](https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html) |
+| [PCB](https://robu.in/product/online-pcb-manufacturing-service/) | Circuitry & connections | 1 | $9.30 | $9.30 | [Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) |
+| **Parts subtotal** | — | — | — | **$25.87** | — |
+| **Tax & shipping** | — | — | — | **$3.06** | — |
+| **Total** | — | — | — | **$28.93** | — |
+
 # Images and Renders
 The final schematic looks like this:
 <img width="1127" height="725" alt="Schematic" src="https://github.com/user-attachments/assets/db617f8f-5504-45f9-9211-ffc6cfcafc1b" />
